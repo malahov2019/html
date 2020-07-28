@@ -1,0 +1,26 @@
+.heading{
+	display: block;
+	text-align: center;
+	margin: 40px 607px;
+	font-size: 26px;
+}
+
+.heading-info{
+	margin: 35px 255px 5px;
+	text-align: center;
+}
+
+.UnderHeading-Info{
+	width: 200px;
+	display: inline-block;
+	text-align: center;
+	margin-left: -12px;
+	font-size: 16px;
+    color: #878786;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #007AFF; /* Цвет ссылки при наведении на нее курсора мыши */  
+     /* text-decoration: underline; Добавляем подчеркивание */
+   }

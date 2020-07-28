@@ -1,0 +1,27 @@
+.wrapper{
+	width: 100%;
+    background: #F4F4F4;
+    padding: 14px 460px 14px 80px;
+
+}
+
+.info{
+
+}
+
+.inscription1{
+	display: inline-block;
+    align-items: center;
+	font-size: 15px;
+	line-height: 18px;
+	color: #737270;
+}
+
+.inscription{
+	display: inline-block;
+    align-items: center;
+	font-size: 15px;
+	margin-left: 25px;
+	line-height: 18px;
+	color: #737270;
+}

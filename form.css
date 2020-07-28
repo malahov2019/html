@@ -1,0 +1,162 @@
+.form{
+  margin: 0 auto;
+  padding: 15px 20px;
+  display: block;
+  max-width: 1000px;
+  background: #FFFFFF;
+  border: 1px solid #C6C6C5;
+  box-sizing: border-box;
+}
+
+.fieldset{
+	border: 1px black ;
+	max-width: 940px;
+}
+
+.inputContainer_1{
+    font-size: 14px;
+}
+
+.insideText1{
+	width: 150px;
+    height: 40px;
+	display: inline-block;
+	background: #FFFFFF;
+    border: 1px solid #C6C6C5;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.insideText{
+	margin-left: 23px;
+	width: 220px;
+    height: 40px;
+	display: inline-block;
+	background: #FFFFFF;
+    border: 1px solid #C6C6C5;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.fieldset2{
+	border: 1px black ;
+	max-width: 940px;
+    display: flex;
+    margin-top: 40px;
+}
+
+.insideText2{
+   width: 930px;
+   height: 40px;
+   background: #FFFFFF;
+   border: 1px solid #C6C6C5;
+   box-sizing: border-box;
+   color: #9B9B9A;
+   border-radius: 5px;
+}
+
+.fieldset3{
+	border: 1px black ;
+	max-width: 940px;
+	margin-top: 48px;
+}
+
+.mainContainer{
+	display: block;
+}
+
+.mainContainer1{
+	font-size: 14px;
+	color: #007AFF;
+}
+
+.mainText1{
+	width: 935px;
+    height: 4px;
+    background: #C6C6C5;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+ }
+
+.inputContainer3{
+	display: inline-block;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	
+}
+
+.inputContainer_3{
+	margin-left: 18px;
+}
+
+.forText1{
+	width: 290px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #C6C6C5;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.forText2{
+	width: 290px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #C6C6C5;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.forText{
+	width: 290px;
+    height: 40px;
+    margin-left: 18px;
+    background: #FFFFFF;
+    border: 1px solid #C6C6C5;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.UnderForText{
+	display: flex;
+	width: 290px;
+    height: 35px;
+    margin-left: 18px;
+	font-size: 14px;
+    color: #878786;
+}
+
+.inputblock{
+	display: inline-block;
+	margin-top: 48px;
+}
+
+.underButton1{
+	width: 100px;
+    height: 39px;
+	background: rgba(0, 0, 0, 0.0001);
+    border: 1px solid #757575;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #757575;
+    border-radius: 5px;
+}
+
+.inputblock_1{
+	width: 440px;
+    height: 17px;
+    font-size: 14px;
+    color: #878786;
+    margin-left: 120px;
+    margin-right: 100px;
+}
+
+.underButton2{
+	width: 149px;
+    height: 39px;
+    border: 1px  black;
+	background: #007AFF;
+	font-size: 14px;
+	color: #FFFFFF;
+	border-radius: 5px;
+}

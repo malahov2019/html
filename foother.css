@@ -1,0 +1,70 @@
+.foother{
+    position: absolute;
+    height: 100%;
+    max-height: 335px;
+    width: 100%;
+	background: #FFFFFF;
+	margin-top: 100px;
+}
+
+.foother2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 100%;   
+}
+
+.UnderFoother2,.UnderFoother3, .UnderFoother4, .UnderFoother5{
+	float: left;
+}
+
+.UnderFoother2{
+
+}
+
+ .UnderFoother3, .UnderFoother4, .UnderFoother5{
+ 	margin-left: 90px;
+ }
+
+.headline{
+	font-size: 24px;
+	color: #1C1C1B;
+	margin: 5px 0px;
+	line-height: 29px;
+}
+
+.footherText{
+	font-size: 16px;
+	text-decoration: none;
+	color: #1C1C1B;
+	line-height: 30px;
+}
+
+.underImg{
+	text-decoration: none
+}
+
+li {
+    list-style-type: none; /* Убираем маркеры */
+    margin-top: 5px;
+   }
+
+ul {
+    padding: 0; margin: 0; /* Убираем отступы у списка */
+    margin-top: 10px;
+   }
+
+.footherText1{
+	width: 1281px;
+    height: 3px;
+    background: #C6C6C5;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footherContainer1{
+	color: #878786;
+	font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
